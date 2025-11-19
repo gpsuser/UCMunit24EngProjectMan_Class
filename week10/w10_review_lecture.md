@@ -3,23 +3,23 @@
 ## Unit 24: Project Management for Engineers
 
 **Session Date**: 19 November 2025  
-**Duration**: 90 minutes (55 minutes lecture + 5 minutes break + 30 minutes workshop)  
+**Duration**: 90 minutes 
 **Learning Outcomes**: LO1 (Understanding Project Stages) & LO2 (PM Roles and Skills)  
-**Session Type**: Formative Assessment and Review
+**Session Type**: Assessment and Review
 
 ---
 
 ## Table of Contents
 
 | Section | Topic | Time Allocation | Learning Outcome |
+
 |---------|-------|----------------|------------------|
 | 1 | Introduction and Objectives | 5 minutes | LO1-2 |
 | 2 | LO1 Comprehensive Review: Project Stages | 20 minutes | LO1.1-1.4 |
 | 3 | LO2 Comprehensive Review: Roles & Skills | 20 minutes | LO2.1-2.2 |
 | 4 | Examination Technique and Strategy | 10 minutes | LO1-2 |
 | 5 | Conclusion and Key Takeaways | 5 minutes | LO1-2 |
-| BREAK | | 5 minutes | |
-| 6 | Workshop: Formative Assessment | 30 minutes | LO1-2 |
+
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Session Overview
 
-This session represents a critical milestone in the Unit 24 learning journey. Having completed the first two phases covering project stages and project management roles, learners now consolidate their understanding through comprehensive review and formative assessment.
+This session represents a critical milestone in the Unit 24 learning journey. Having completed the first two phases covering project stages and project management roles, learners now consolidate their understanding through comprehensive review and assessment.
 
 ### Session Objectives
 
@@ -287,19 +287,6 @@ Information management collects, analyses and disseminates project data for deci
 
 ## 4. General Guidance on Examination Technique and Strategy (10 minutes)
 
-### 4.1 Understanding the Assessment Format
-
-The Unit 24 external examination comprises a two-hour written paper worth 80 marks, based upon an engineering project scenario. Questions range from knowledge recall to analysis and evaluation, with marks distributed according to cognitive demand (OCR, 2017).
-
-#### Mark Allocation Principles
-
-Lower-order questions (1-3 marks) typically assess knowledge and understanding, requiring definitions, explanations or identification. Medium-level questions (4-6 marks) demand application and analysis, requiring learners to apply concepts to scenarios or analyse situations. Higher-order questions (7-10 marks) require evaluation, recommendation and justification, demonstrating critical thinking and professional judgement.
-
-### 4.2 Effective Examination Strategies
-
-#### Time Management
-
-With 120 minutes for 80 marks, learners should allocate approximately 1.5 minutes per mark. A 10-mark question warrants 15 minutes of effort. Time should be distributed proportionally, avoiding spending excessive time on low-value questions whilst neglecting high-value questions.
 
 #### Command Words
 
@@ -323,7 +310,7 @@ Project management effectiveness requires both systematic process adherence (LO1
 
 ### 5.2 Preparation for Assessment
 
-The formative assessment in today's workshop provides diagnostic insight into current understanding and identifies areas requiring additional revision. Learners should approach the workshop as examination practice under realistic conditions. 
+The assessment in today's workshop provides diagnostic insight into current understanding and identifies areas requiring additional revision. Learners should approach the workshop as examination practice under realistic conditions. 
 
 
 
@@ -387,11 +374,6 @@ Tuckman, B.W. (1965) Developmental sequence in small groups. *Psychological Bull
 
 Turner, J.R. (2014) *The handbook of project-based management*. 4th edn. New York: McGraw-Hill.
 
----
-
-## Word Count
-
-**Total Word Count (excluding references, tables and bibliography)**: 5,847 words
 
 ---
 

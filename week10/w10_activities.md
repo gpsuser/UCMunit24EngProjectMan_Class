@@ -2,8 +2,7 @@
 ## Phase 1-2 Formative Assessment
 ## Cambridge TECHNICALS Level 3 Engineering - Unit 24
 
-**Duration**: 30 minutes  
-**Activity Type**: Individual formative assessment  
+**Activity Type**: Individual assessment  
 **Learning Outcomes**: LO1 (Understanding Project Stages) & LO2 (PM Roles and Skills)  
 **Total Marks**: 40 marks
 
@@ -13,7 +12,7 @@
 
 ### Purpose of This Workshop
 
-This formative assessment provides practice for the upcoming mid-course assessment and external examination. The questions mirror the style, format and cognitive demand of actual examination questions. This is an individual activity designed to help you:
+This formative assessment provides practice for external examination. The questions mirror the style, format and cognitive demand of actual examination questions. This is an individual activity designed to help you:
 
 1. Apply your knowledge of project stages and management skills to realistic scenarios
 2. Practice examination technique under time constraints
@@ -23,7 +22,7 @@ This formative assessment provides practice for the upcoming mid-course assessme
 
 ### Workshop Format
 
-You have **30 minutes** to complete the questions below. The assessment comprises two sections:
+The assessment comprises two sections:
 
 - **Section A**: Questions on Project Management Stages (LO1) - 20 marks
 - **Section B**: Questions on Project Management Roles and Skills (LO2) - 20 marks
@@ -31,21 +30,14 @@ You have **30 minutes** to complete the questions below. The assessment comprise
 ### Examination Conditions
 
 - Work **individually** without consultation with peers
-- Write your answers in the space provided or on separate paper
-- Show all workings for calculation questions
-- Use black or blue pen
-- Allocate time proportionally to marks (approximately 45 seconds per mark)
+- Allocate time proportionally to marks
 - Attempt all questions
 
-### Time Management Guide
-
-| Section | Marks | Recommended Time |
-|---------|-------|------------------|
-| Section A | 20 marks | 15 minutes |
-| Section B | 20 marks | 15 minutes |
-| **Total** | **40 marks** | **30 minutes** |
-
 ---
+
+### Submission Instructions
+
+Write your answers in a word document and save the word document under `week10` in your Teams folder.
 
 ## Scenario Context
 
