@@ -138,10 +138,6 @@ This matches the longest duration from the forward pass.
 
 ---
 
-# 📌 Want a worked example with diagrams, forward pass/backward pass tables, and float calculations?
-
-I can generate a full example, including a small network diagram, if you want.
-
 
 ## ✅ **Why the “Longest Path” = the “Shortest Possible Project Duration”**
 
@@ -231,7 +227,6 @@ This longest path is the *critical path*.
 
 ## Example
 
-Excellent — I created a worked example and visual so you can see the math and the network.
 
 ### Quick recap of the example you just saw
 
@@ -255,10 +250,4 @@ Excellent — I created a worked example and visual so you can see the math and 
 * That means *even if other tasks (like C) finish earlier or slip within their float, the project cannot finish before day 21* because the tasks on the critical path must finish and they take 21 days in sequence.
 * Every task on the critical path has **zero float**, so any delay in A, B, D, E, or F delays the whole project.
 
-If you want any of these next steps, say which and I’ll produce it directly:
-
-* A variation with different durations so you can see how the critical path can change.
-* Export the schedule table as CSV or Excel for your own use.
-* A version using finish-to-start / start-to-start dependency types (lags, leads).
-* A step-by-step manual forward/backward pass calculation laid out in plain numbers.
 
