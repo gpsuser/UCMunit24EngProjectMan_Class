@@ -1,6 +1,5 @@
 # Ctitical Path Notes
 
-Below is a clear, practical explanation of how to calculate the **critical path** for an engineering project—without over-complication and in a way you can apply immediately.
 
 
 ---
