@@ -2,6 +2,7 @@
 ## Cambridge TECHNICALS Level 3 Engineering
 ### Unit 24: Project Management for Engineers
 
+
 **Lecture Duration:** 60 minutes  
 **Delivery Week:** 15  
 **Learning Outcome:** LO3.3 - How to calculate and use the Program Evaluation and Review Technique (PERT)  
