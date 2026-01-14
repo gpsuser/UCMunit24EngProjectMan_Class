@@ -308,12 +308,6 @@ Frequent errors include providing insufficient detail for available marks, faili
 
 Project management effectiveness requires both systematic process adherence (LO1) and skilled personnel (LO2). The four project stages provide the framework within which project roles operate and management skills are deployed. Successful engineering projects demonstrate excellence across both dimensions.
 
-### 5.2 Preparation for Assessment
-
-The assessment in today's workshop provides diagnostic insight into current understanding and identifies areas requiring additional revision. Learners should approach the workshop as examination practice under realistic conditions. 
-
-
-
 
 
 ---

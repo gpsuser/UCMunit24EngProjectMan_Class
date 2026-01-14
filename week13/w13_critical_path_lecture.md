@@ -453,9 +453,6 @@ CPA is most valuable for projects with:
 - **Week 15:** PERT technique for handling uncertainty in activity duration estimates
 - **Week 16:** Integration of Gantt charts, CPA, and PERT for comprehensive project planning
 
-### Preparation for Workshop
-
-The workshop will provide practice calculating EST, LFT, and float time for various network diagrams. Learners should bring calculators and be prepared to work through problems systematically using the forward and backward pass methods.
 
 ---
 
@@ -491,7 +488,3 @@ Thames Tideway Tunnel (2016) *Development Consent Order Application*. London: Th
 
 ---
 
-*Cambridge TECHNICALS Level 3 Engineering*  
-*Unit 24: Project Management for Engineers*  
-*Week 13 of 32*  
-*December 2024*
